@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#A#",
+        "AGA",
+        "#A#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coal_block"
+        },
+        "G": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "A": {
+            "item": "minecraft:polished_andesite"
+        }
+    },
+    "result": {
+        "item": "immersive_portals:portal_helper",
+        "count": 1
+    }
+}
